@@ -1,5 +1,7 @@
 Introducing Crime Watch Project
+
 Project Overview:
+
 Crime Watch is a web application aimed at providing real-time crime reporting and safety information to users. It enables users to report crimes, 
 view crime history, manage their profiles, and receive notifications about safety issues in their vicinity.
 
